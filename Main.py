@@ -10,7 +10,7 @@ app = FastAPI()
 
 Your Telegram bot token (replace this with your actual token)
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8110072086:AAFdWRlS1LnnZSf-hO9IgecW6ils_lVuIFE")
 
 Start command handler
 
